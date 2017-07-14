@@ -1,8 +1,8 @@
 {
   "name": "trawy",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Trawy",
-  "author": "BX",
+  "author": "Benoît Xylo <benoit.xylo@traverse.waw.pl>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
