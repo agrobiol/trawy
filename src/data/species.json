@@ -1,0 +1,1432 @@
+
+[
+    {
+        "id": 1,
+        "name": "Mozga trzcinowata",
+        "nameLatin": "Phalaris arundinacea",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "rozłogowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 7,
+        "humidity": [
+            "długotrwale zalewane",
+            "okresowo zalewane",
+            "wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 2,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "bd0dcfe0a24dcdf2166dca1c3e6df853.jpg",
+            "29cd99b357c67bb2232759fbd8233c39.jpg",
+            "2fddfbc51ac354b7b13eb2bad6c62da5.jpg",
+            "3b51ebe89a0d809f830731d594e8437d.jpg"
+        ],
+        "details": "Blaszki liściowe szer. do 15 mm, języczek owalny dł. do 6 mm, pochwy otwarte, zachodzące na siebie, na liściach kanały powietrzne, widoczne jako ciemnozielone punkty",
+        "detailsHabitat": "Siedliska długotrwale zalewane (łęgi rozlewiskowe), stanowiska żyzne",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 2,
+        "name": "Wyczyniec łąkowy",
+        "nameLatin": "Alopecurus pratensis",
+        "nameOther": "Lisi ogon",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "rozłogowo-luźnokępowa"
+        ],
+        "inflorescences": [
+            "kłos pozorny"
+        ],
+        "lwu": 9,
+        "humidity": [
+            "okresowo zalewane",
+            "wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 2,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "042cc8a1c939fafacc0f8ee9b6582068.jpg",
+            "d440108bdb4b97a31f76342b43bd3b56.jpg",
+            "e5ca5cd4c1c99ba6221edd49a6cd4386.jpg",
+            "25f651a853b46ad50d94c650ab7dbd4b.jpg"
+        ],
+        "details": "Blaszki liściowe długie, średniej szerokości, języczek krótki",
+        "detailsHabitat": "Siedliska żyzne, wilgotne, okresowo zalewane",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 3,
+        "name": "Kostrzewa trzcinowa",
+        "nameLatin": "Festuca arundinacea",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "kępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 6,
+        "humidity": [
+            "okresowo zalewane",
+            "wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 2,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 2,
+        "images": [
+            "1159eba009fb111d3dc5dc901bb588a5.jpg",
+            "d44f2f9020505c5d7d75af7f80173244.jpg",
+            "6d63db440d0ef5e0f4782170be3b7372.jpg",
+            "9e4b4538432012083709526b804ca02a.jpg"
+        ],
+        "details": "Krótki języczek, uszka z delikatnymi włoskami, duża zawartość krzemionki w liściach",
+        "detailsHabitat": "Siedliska średnio żyzne, wilgotne, okresowo zalewane",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 4,
+        "name": "Kostrzewa łąkowa",
+        "nameLatin": "Festuca pratensis",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 10,
+        "humidity": [
+            "wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 2,
+        "pasturesApplicable": 2,
+        "shortUsagesApplicable": 2,
+        "images": [
+            "7f9ac0c8cb7b7783bfe0d0b4f8cd83a3.jpg",
+            "0f9f4e6e29a1b602d7852530fc92fe8c.jpg",
+            "4a7e29d4f668e08f43893b1434f66106.jpg",
+            "e620d8cf2ccfd7247e7bc0a79fcc01b7.jpg"
+        ],
+        "details": "Blaszki liściowe długie, ostrogi u podstawy blaszki",
+        "detailsHabitat": "Siedliska wilgotne i dostatecznie żyzne, zwięzłe gleby mineralne",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 5,
+        "name": "Tymotka łąkowa",
+        "nameLatin": "Phleum pratense",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "kłos pozorny"
+        ],
+        "lwu": 10,
+        "humidity": [
+            "umiarkowanie wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 2,
+        "pasturesApplicable": 2,
+        "shortUsagesApplicable": 2,
+        "images": [
+            "b865afe77b7731c56140639a835981ac.jpg",
+            "5bd1c4137d6a796f60827eaf6445053f.jpg",
+            "78be01c76151639b9e363c5d430b252a.jpg",
+            "90e6aa453e4ee223ea14e6e924379f67.jpg"
+        ],
+        "details": "Języczek długości do 6 mm, u podstawy szeroki, u góry ostro zakończony, młode rośliny wytwarzają cebulkowate zgrubienie u nasady pędu",
+        "detailsHabitat": "Siedliska żyzne, umiarkowanie wilgotne",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 6,
+        "name": "Kupkówka pospolita",
+        "nameLatin": "Dactylis glomerata",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "kępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 9,
+        "humidity": [
+            "umiarkowanie wilgotne",
+            "umiarkowanie suche"
+        ],
+        "indicators": [
+            "wskaźnik zasobności w azot"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 2,
+        "pasturesApplicable": 2,
+        "shortUsagesApplicable": 2,
+        "images": [
+            "766db8b043541c10ca4a4d06ce976a2e.jpg",
+            "034b001b29249c2288f8d7deedf4eb16.jpg",
+            "58e6938b1782f322dbcb070e7bf47d66.jpg",
+            "9bdb3af1896a4f6c2af8fbca31471c49.jpg"
+        ],
+        "details": "Jedyna wśród traw wysokich z płaskimi pędami, języczek liściowy długi, poszarpany",
+        "detailsHabitat": "Siedliska umiarkowanie wilgotne lub suche, dostatecznie żyzne, nitrofilna",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 7,
+        "name": "Stokłosa bezostna",
+        "nameLatin": "Bromus inermis",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "rozłogowa"
+        ],
+        "inflorescences": [
+            "wiecha podwójna"
+        ],
+        "lwu": 8,
+        "humidity": [
+            "umiarkowanie suche"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 2,
+        "pasturesApplicable": 1,
+        "shortUsagesApplicable": 2,
+        "images": [
+            "8bf776aafea9e3213415a5f301e459fa.jpg",
+            "c1bfae6ac00b1940b119f645616cb318.jpg",
+            "b9b851c390c6f1b8b4c7085a02e5e138.jpg",
+            "2c820d77c6ee2ae1a3b0b58ab1d77130.jpg"
+        ],
+        "details": "Języczek słabo zaznaczony, pochwa wysoko zrośnięta (V-shaped)",
+        "detailsHabitat": "Siedliska suchsze, ale dostatecznie żyzne, znosi suszę",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 8,
+        "name": "Rajgras wyniosły",
+        "nameLatin": "Arrhenatherum elatius",
+        "nameOther": "Rajgras francuski",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha podwójna"
+        ],
+        "lwu": 9,
+        "humidity": [
+            "umiarkowanie wilgotne",
+            "umiarkowanie suche"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 2,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 2,
+        "images": [
+            "1667616bbf48fac2f0c1f7ec6bfcbee5.jpg",
+            "fb5112afa27702f5a0ec203098176922.jpg",
+            "12dda896cdef62939bbf4939f531b555.jpg",
+            "98b8c76e389d2098e0f3cf9a22dcfb6f.jpg"
+        ],
+        "details": "Ząbkowany języczek, pojedyncze włoski na blaszce liściowej",
+        "detailsHabitat": "Wyłącznie gleby mineralne, umiarkowanie suche do średnio-wilgotnych, dobrze znosi suszę",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 9,
+        "name": "Mietlica olbrzymia",
+        "nameLatin": "Agrostis gigantea",
+        "nameOther": "Mietlica biaława",
+        "heightTypes": [
+            "średniowysoka"
+        ],
+        "propagations": [
+            "rozłogowo-luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 9,
+        "humidity": [
+            "okresowo zalewane",
+            "wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 2,
+        "pasturesApplicable": 2,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "79df8c37cede1a7b8d4974f57a3b8ad3.jpg",
+            "7aca0e781ea4135ec25f930563fa2115.jpg",
+            "dc402ac39b3dcf44764bf2ea5ffb9e8c.jpg",
+            "6fc373465d1ce8f7f261be81aacde97b.jpg"
+        ],
+        "details": "Języczek dł. do 6 mm, pochwy otwarte",
+        "detailsHabitat": "Gleby mineralne i torfowe, okresowo zalewane",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 10,
+        "name": "Wiechlina błotna",
+        "nameLatin": "Poa palustris",
+        "nameOther": "",
+        "heightTypes": [
+            "średniowysoka"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 8,
+        "humidity": [
+            "okresowo zalewane",
+            "wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 2,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "da6d0b05ebddef8d1f728b764216fb26.jpg",
+            "2e4c2bb1da4bb6a246f789f765f3f80e.jpg",
+            "a22585b8c9151b4aebbf0a1d47525bae.jpg",
+            "2b0f5657ed14423fbfdcf3eee3a247d4.jpg"
+        ],
+        "details": "Języczek do 3 mm",
+        "detailsHabitat": "Stanowiska zalewane, żyzne, gleby zasobne w fosfor",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 11,
+        "name": "Wiechlina łąkowa",
+        "nameLatin": "Poa pratensis",
+        "nameOther": "",
+        "heightTypes": [
+            "niska"
+        ],
+        "propagations": [
+            "rozłogowo-luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 10,
+        "humidity": [
+            "umiarkowanie wilgotne",
+            "umiarkowanie suche"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 2,
+        "pasturesApplicable": 2,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "1a81a2cf2fe5fa638235f05c0f3f2ab0.jpg",
+            "a2ca20f41ae8a5b4c22420baa9760f5d.jpg",
+            "05fe312b46d5043d33ad9af90e406bf3.jpg",
+            "03011b55da5bdc26f6eb0b1c841fa3d9.jpg"
+        ],
+        "details": "Duża zmienność morfologiczna, języczek bardzo krótki, nieznacznie większa od wiechliny błotnej, podwójna rynienka wzdłuż nerwu głównego (ślad nart)",
+        "detailsHabitat": "Wiele stanowisk, oprócz zalewanych i na luźnych piaskach, od średnio-wilgotnych do posusznych",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 12,
+        "name": "Życica wielokwiatowa",
+        "nameLatin": "Lolium multiflorum",
+        "nameOther": "Rajgras włoski",
+        "heightTypes": [
+            "średniowysoka"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "kłos właściwy"
+        ],
+        "lwu": 9,
+        "humidity": [
+            "umiarkowanie wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 2,
+        "images": [
+            "3dc9ae47534eee197d9f45b82082a903.jpg",
+            "45c512b4f767a0d9dc0e3ed110e74508.jpg",
+            "28db02918230c8b48cf2e9d631164f92.jpg",
+            "3f89618a9866af135582d038eea1f70a.jpg",
+            "a20a0d3879a2566f8e4df6a7d64dc504.jpg"
+        ],
+        "details": "Jedyny gatunek krótkotrwały, blaszki liściowe błyszczące od spodu, krótki języczek i ostrogi",
+        "detailsHabitat": "Nie występuje naturalnie na terenie Polski, wymaga gleb ciepłych i żyznych",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 13,
+        "name": "Życica trwała",
+        "nameLatin": "Lolium perenne",
+        "nameOther": "Rajgras angielski",
+        "heightTypes": [
+            "niska"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "kłos właściwy"
+        ],
+        "lwu": 10,
+        "humidity": [
+            "umiarkowanie wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 1,
+        "pasturesApplicable": 2,
+        "shortUsagesApplicable": 2,
+        "images": [
+            "b7f33d583b2c0492916c81081a229204.jpg",
+            "ccfd3f94b84c5ce60e9a8d809b5a3442.jpg",
+            "0384e55c2680b9c76928dbf12e0bda9c.jpg",
+            "e6eaf53d51e7108ae9a4c55c4446c3b3.jpg"
+        ],
+        "details": "Blaszki liściowe błyszczące od strony zewnętrznej, języczek owalny, krótki, u podstawy blaszki uszka",
+        "detailsHabitat": "Tylko gleby mineralne, żyzne, umiarkowanie wilgotne, nie zalewane, zwięzłe, wymarza na glebach torfowych",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 14,
+        "name": "Kostrzewa czerwona",
+        "nameLatin": "Festuca rubra",
+        "nameOther": "",
+        "heightTypes": [
+            "niska"
+        ],
+        "propagations": [
+            "rozłogowo-luźnokępowa",
+            "kępowa"
+        ],
+        "inflorescences": [
+            "wiecha podwójna"
+        ],
+        "lwu": 6,
+        "humidity": [
+            "umiarkowanie wilgotne",
+            "umiarkowanie suche"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 1,
+        "pasturesApplicable": 2,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "32578ac69db5f69b7ef4b56b5fc7e16f.jpg",
+            "9c54f6f4386394ab443406bdd16cf857.jpg",
+            "1c1108ae1ee318d7aefbc665a558ac23.jpg",
+            "674f7b1d94e44d1c00ba16a3377857ce.jpg"
+        ],
+        "details": "Użytkowana wyłącznie forma rozłogowa, brak języczka",
+        "detailsHabitat": "Siedliska średnio-wilgotne do suchych",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 15,
+        "name": "Manna jadalna",
+        "nameLatin": "Glyceria fluitans",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "rozłogowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa",
+            "wiecha podwójna"
+        ],
+        "lwu": 5,
+        "humidity": [
+            "okresowo zalewane",
+            "wilgotne"
+        ],
+        "indicators": [
+            "wskaźnik nieuregulowanych stosunków wodnych"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "7561356ba21212ff13ae85222096293f.jpg",
+            "a761d6a59404e6147bfdf307bc5d8673.jpg",
+            "ce7e5cf4532b123deb757b18a37dec3c.jpg",
+            "6f136c5942601ba524829a9378a50a66.jpg"
+        ],
+        "details": "Języczek do 5mm, ostro zakończony, podwójna rynienka wzdłuż nerwu głównego (ślad nart), zawiera kwas pruski",
+        "detailsHabitat": "Łąki mokre, dość żyzne, pobrzeża rozlewisk i rzek",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 16,
+        "name": "Manna mielec",
+        "nameLatin": "Glyceria aquatica",
+        "nameOther": "Manna wodna",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "rozłogowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 5,
+        "humidity": [
+            "wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "7955c86c62089ab7ce0b41dd96d96f29.jpg",
+            "29b5209268eb9ec66f67b354caa8bbd2.jpg",
+            "754b9098bd6eb9103188e33c98b64110.jpg",
+            "db4a18cd0abc82f7fdd4cf3de984afd9.jpg"
+        ],
+        "details": "Krótki języczek, na liściach przegrody poprzeczne kanałów powietrznych, zawiera kwas pruski",
+        "detailsHabitat": "Stare koryta rzek, płytko zalane namuliska, mokre żyzne łąki, długotrwale zalewane",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 17,
+        "name": "Mietlica rozłogowa",
+        "nameLatin": "Agrostis stolonifera",
+        "nameOther": "",
+        "heightTypes": [
+            "niska"
+        ],
+        "propagations": [
+            "rozłogowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 5,
+        "humidity": [
+            "okresowo zalewane",
+            "wilgotne"
+        ],
+        "indicators": [
+            "wskaźnik nieuregulowanych stosunków wodnych"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "cf85ae80367ebf9007ccd52c0080dc5b.jpg",
+            "fa0b40789c6071139184fbd9c9c84333.jpg",
+            "586990bb0ac040b11e26fa1750a10230.jpg",
+            "ac6ceda102a3983bbf5352162c2ff38e.jpg"
+        ],
+        "details": "Języczek do 4 mm, ostro zakończony",
+        "detailsHabitat": "Wilgotne, a nawet mokre obniżenia terenu na łąkach i pastwiskach, często nad brzegami wód wolno płynących",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 18,
+        "name": "Wyczyniec kolankowy",
+        "nameLatin": "Alopecurus geniculatus",
+        "nameOther": "",
+        "heightTypes": [
+            "niska"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "kłos pozorny"
+        ],
+        "lwu": 5,
+        "humidity": [
+            "okresowo zalewane",
+            "wilgotne"
+        ],
+        "indicators": [
+            "wskaźnik nieuregulowanych stosunków wodnych"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "e74c2be648fcb609c97043f3c321ac25.jpg",
+            "7dc519bf17be8cf14a7f27dc41c31bd8.jpg",
+            "7c5e777655361ed9cf1eb83020e44ee7.jpg",
+            "e127ae8b824b4d9611292b9d3ceb5d3d.jpg"
+        ],
+        "details": "Pędy wznoszą się kolankowato, języczek długi, ostro zakończony",
+        "detailsHabitat": "Stanowiska mokre, średnio żyzne, wskaźnik nieuregulowanych stosunków wodnych",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 19,
+        "name": "Wiechlina zwyczajna",
+        "nameLatin": "Poa trivialis",
+        "nameOther": "",
+        "heightTypes": [
+            "średniowysoka"
+        ],
+        "propagations": [
+            "rozłogowo-luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 7,
+        "humidity": [
+            "wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "42a9384e4aaab226bfd5ac6e1c70fb96.jpg",
+            "b9ec09d7bfc7c34d093d557df4ceec9f.jpg",
+            "059022ae6989ccebb784066c534edada.jpg",
+            "a61d9df1090bc9aa1b05f266c105e5b7.jpg"
+        ],
+        "details": "Blaszki liściowe od spodu błyszczące, ślad nart, języczek krótki, owalny, pochwy dołem fioletowo zabarwione",
+        "detailsHabitat": "Siedliska wilgotne, użytkowana przy zakładaniau zacienionych trawników parkowych",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 20,
+        "name": "Wiechlina roczna",
+        "nameLatin": "Poa annua",
+        "nameOther": "",
+        "heightTypes": [
+            "niska"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 6,
+        "humidity": [
+            "umiarkowanie wilgotne",
+            "umiarkowanie suche"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "4465d81716487d9caaacfce0e6714f80.jpg",
+            "c74bad4967e85f6c1965279f088cff54.jpg",
+            "57cd29b297ecf16d8101b5ef684f9a95.jpg",
+            "cfb3b10a197508b2e789794fabe7bf34.jpg"
+        ],
+        "details": "Jedna z najniższych traw użytków zielonych, podwójna rynienka wzdłuż nerwu głównego (ślad nart), języczek owalny do 3 mm",
+        "detailsHabitat": "Pospolita, gleby nie za suche i nie za mokre",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 21,
+        "name": "Drżączka średnia",
+        "nameLatin": "Briza media",
+        "nameOther": "",
+        "heightTypes": [
+            "średniowysoka"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 5,
+        "humidity": [
+            "umiarkowanie wilgotne"
+        ],
+        "indicators": [
+            "wskaźnik gleb ubogich"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "89039604d730f6fd43f01e6ae44a6591.jpg",
+            "8ff89b720945e48e797b71346dcd180e.jpg",
+            "a5a8d3c556768db64f70039ae8360181.jpg",
+            "5848de661d1fcf758d0242b5ed6b8a40.jpg"
+        ],
+        "details": "Języczek krótki owalny, pochwy brzegami zachodzące na siebie",
+        "detailsHabitat": "Gleby murszowate, mało żyzne umiarkowanie wilgotne",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 22,
+        "name": "Tomka wonna",
+        "nameLatin": "Anthoxanthum odoratum",
+        "nameOther": "",
+        "heightTypes": [
+            "niska"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "kłos pozorny"
+        ],
+        "lwu": 4,
+        "humidity": [
+            "umiarkowanie wilgotne",
+            "umiarkowanie suche"
+        ],
+        "indicators": [
+            "wskaźnik gleb ubogich"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "07a4f634bad454dbb2e490532e914f6e.jpg",
+            "d97b4e4232fd089d23f49eaff163873a.jpg",
+            "e003c8db21f3ed31dae5959cfa298a9d.jpg",
+            "f320a4e5f608701d8c1f6650c69919aa.jpg"
+        ],
+        "details": "Języczek długi, fioletowy, z kępką włosków po obu stronach na małych uszkach, zawiera kumarynę",
+        "detailsHabitat": "Bardzo rozpowszechniona na łąkach, siedliska ubogie",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 23,
+        "name": "Grzebienica pospolita",
+        "nameLatin": "Cynosurus cristatus",
+        "nameOther": "",
+        "heightTypes": [
+            "niska"
+        ],
+        "propagations": [
+            "rozłogowo-luźnokępowa"
+        ],
+        "inflorescences": [
+            "kłos pozorny"
+        ],
+        "lwu": 6,
+        "humidity": [
+            "umiarkowanie wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "c61a89580e576deacdb6b0ac19a10ad6.jpg",
+            "50aa93dc9ed34746f916e3ec441b91df.jpg",
+            "429c8f616367205de7c2f81571be7fcd.jpg",
+            "b3ac793d1b5f5b0b4a423016175583c2.jpg"
+        ],
+        "details": "Dobrze znosi wypas",
+        "detailsHabitat": "Tereny podgórskie, rzadziej na niżu, gleby mineralne, średnio wilgotne, średnio żyzne",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 24,
+        "name": "Stokłosa prosta",
+        "nameLatin": "Bromus erectus",
+        "nameOther": "",
+        "heightTypes": [
+            "średniowysoka"
+        ],
+        "propagations": [
+            "kępowa"
+        ],
+        "inflorescences": [
+            "wiecha podwójna",
+            "wiecha pojedyncza"
+        ],
+        "lwu": 5,
+        "humidity": [
+            "umiarkowanie wilgotne",
+            "umiarkowanie suche"
+        ],
+        "indicators": [
+            "wskaźnik zasobności w wapń"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "454214a71a57569baed8bd43955a7d91.jpg",
+            "a29ad2ce2486ba027d43767e2be7ee24.jpg",
+            "9d7015aa14e8a9372cd936c8103bf7ca.jpg",
+            "dd2c742838c4cba0716c217580d4c21b.jpg"
+        ],
+        "details": "Blaszki liściowe pokryte na brzegach długimi włoskami",
+        "detailsHabitat": "Siedliska suche i średnio-wilgotne, gleby o wyższym pH (Jura Krakowsko-Częstochowska)",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 25,
+        "name": "Stokłosa miękka",
+        "nameLatin": "Bromus mollis",
+        "nameOther": "",
+        "heightTypes": [
+            "średniowysoka",
+            "niska"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 4,
+        "humidity": [
+            "umiarkowanie suche"
+        ],
+        "indicators": [
+            "wskaźnik degradacji gleb torfowych",
+            "wskaźnik degradacji darni"
+        ],
+        "weeds": [
+            "chwast względny"
+        ],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "01c165b92304defa62e1be34a1c0dcae.jpg",
+            "ba7e7869ceeef40915a4debca14c9408.jpg",
+            "98a2ae181441ec77e477459e0c8cca80.jpg",
+            "abeb871e2d5e1cb4d3018c8314a1f13c.jpg"
+        ],
+        "details": "",
+        "detailsHabitat": "Siedliska suchsze, mało i średnio żyzne",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 26,
+        "name": "Mietlica pospolita",
+        "nameLatin": "Agrostis vulgaris",
+        "nameOther": "",
+        "heightTypes": [
+            "średniowysoka",
+            "niska"
+        ],
+        "propagations": [
+            "rozłogowo-luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 6,
+        "humidity": [
+            "suche"
+        ],
+        "indicators": [
+            "wskaźnik niedoboru fosforu"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "074345296e3a092e8521159daa7b03e3.jpg",
+            "12db19e080f132f1bdc5ef41c5ac5016.jpg",
+            "1f6efc5c734daf858e255ac6b5bfa1aa.jpg",
+            "95122f259ab2bf8ed9c247e6b60e639a.jpg"
+        ],
+        "details": "",
+        "detailsHabitat": "Suche, mało żyzne, pastwiska górskie",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 27,
+        "name": "Perz właściwy",
+        "nameLatin": "Agropyron repens",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka",
+            "średniowysoka"
+        ],
+        "propagations": [
+            "rozłogowa"
+        ],
+        "inflorescences": [
+            "kłos właściwy"
+        ],
+        "lwu": 7,
+        "humidity": [
+            "umiarkowanie wilgotne",
+            "umiarkowanie suche"
+        ],
+        "indicators": [
+            "wskaźnik zasobności w azot"
+        ],
+        "weeds": [
+            "chwast względny"
+        ],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "155b58665f1c43a1ba8732bb0136c1b7.jpg",
+            "4ead6d390244fcdca800786bbf349449.jpg",
+            "7091e186644d389333d6d5d9e6c1a3db.jpg",
+            "3cb68ed77bd2ee829667effcffd6d907.jpg"
+        ],
+        "details": "Charakterystyczne ostrogi, owłosione dolny pochwy, gatunek nitrofilny",
+        "detailsHabitat": "Siedliska średnio wilgotne i suche, przewiewne gleby mineralne",
+        "detailsRemoval": "Właściwe użytkowanie użytku, wałowanie"
+    },
+    {
+        "id": 28,
+        "name": "Owsica omszona",
+        "nameLatin": "Avenastrum pubescens",
+        "nameOther": "",
+        "heightTypes": [
+            "średniowysoka"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha podwójna"
+        ],
+        "lwu": 4,
+        "humidity": [
+            "umiarkowanie wilgotne",
+            "umiarkowanie suche"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "379b1f1a1276253356564f831662e15e.jpg",
+            "017134dd19ed17c5246c799d08d4f298.jpg",
+            "bcffc4227e6a0c1d0b366992ba210b2b.jpg",
+            "02afb958040e22c7330c2e109ee503dd.jpg"
+        ],
+        "details": "",
+        "detailsHabitat": "Umiarkowanie suche do średnio wilgotnych, średnio żyzne gleby mineralne, podsuszone torfowiska",
+        "detailsRemoval": "Wczesne koszenie, nawożenie azotem"
+    },
+    {
+        "id": 29,
+        "name": "Konietlica łąkowa",
+        "nameLatin": "Trisetum flavescens",
+        "nameOther": "Owsik złocisty",
+        "heightTypes": [
+            "średniowysoka"
+        ],
+        "propagations": [
+            "luźnokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 7,
+        "humidity": [
+            "umiarkowanie wilgotne",
+            "umiarkowanie suche"
+        ],
+        "indicators": [
+            "wskaźnik zasobności w wapń"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "e92d5374e4981a60fb900767cc1bb1a7.jpg",
+            "5fef4e2ca766bd083c338f72236d7157.jpg",
+            "3a9e5924d62db58e66feeef3e0a555e1.jpg",
+            "2462440416d8436da8210cf569aaaf86.jpg"
+        ],
+        "details": "Obecność włosków na węzłach",
+        "detailsHabitat": "Gleby gliniasto-piaszczyste, średnio żyzne, średnio suche do umiarkowanie wilgotnych, zasobne w wapń",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 30,
+        "name": "Kostrzewa owcza",
+        "nameLatin": "Festuca ovina",
+        "nameOther": "",
+        "heightTypes": [
+            "niska"
+        ],
+        "propagations": [
+            "kępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa",
+            "wiecha podwójna"
+        ],
+        "lwu": 3,
+        "humidity": [
+            "suche"
+        ],
+        "indicators": [
+            "wskaźnik gleb ubogich",
+            "wskaźnik niedoboru fosforu",
+            "wskaźnik gleb kwaśnych"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "5e257c18aebf0d8c50ef2ca4361d8338.jpg",
+            "265b6e56f4cfc36afc6f368490e312cf.jpg",
+            "09f8a1f907577de26cddd9ca2596d445.jpg",
+            "6c8bc368ece2deb2d4416928d0a49e4e.jpg"
+        ],
+        "details": "Brak języczka, silnie rozwinięty system korzeniowy, odporna na ostre zimy",
+        "detailsHabitat": "Stanowiska nasłonecznione, gleby suche, piaszczyste",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 31,
+        "name": "Trzcina pospolita",
+        "nameLatin": "Phragmites australis",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "rozłogowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 1,
+        "humidity": [
+            "długotrwale zalewane"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "32e1eeebea9a02ed27a0bbff85c17f77.jpg",
+            "0fa9477bd7e90ccc229a7f21096586ef.jpg",
+            "d6886246e7caf41acb34eac79c27292c.jpg",
+            "b79cc89087d9ed1de730aa08767faf43.jpg"
+        ],
+        "details": "Korzenie do 2 m z tkankami powietrznymi, higrofit ",
+        "detailsHabitat": "Płytkie zbiorniki wodne, podłoże torfowo-mułowe, zabagnione łąki",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 32,
+        "name": "Trzcinnik prosty",
+        "nameLatin": "Calamagrostis neglecta",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "rozłogowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 2,
+        "humidity": [
+            "okresowo zalewane",
+            "wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "39df82bb8f1fe221fa368557d04a50e3.jpg",
+            "80925b9001d46f14dbc529815e2ce363.jpg",
+            "08d686729c6f61fc8f1059cb40dfc871.jpg",
+            "d5a48ba9cadbb8a762e0cfe32245a904.jpg"
+        ],
+        "details": "Ostre liście, ze względu na dużą zawartość krzemionki",
+        "detailsHabitat": "Łąki bagienne, pobagienne",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 33,
+        "name": "Trzcinnik lancetowaty",
+        "nameLatin": "Calamagrostis canescens",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "rozłogowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 2,
+        "humidity": [
+            "okresowo zalewane",
+            "wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "c7bcf681117a1e8fc21746df699aaafa.jpg",
+            "d6f1dd8dba4aabfc32e70f4f6a4eb721.jpg",
+            "a2867a34e5337c67865c1ab3ebb24f2c.jpg",
+            "83d1df406c433387df8cbd4aa257f856.jpg"
+        ],
+        "details": "Ostre liście, ze względu na dużą zawartość krzemionki",
+        "detailsHabitat": "Łąki bagienne, pobagienne",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 34,
+        "name": "Trzęślica modra",
+        "nameLatin": "Molinia coerulea",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "zbitokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 2,
+        "humidity": [
+            "wilgotne"
+        ],
+        "indicators": [
+            "wskaźnik niedoboru fosforu"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "3213ccc09f202ebff2b2a8b71773e3a5.jpg",
+            "8f5298d41aa99a0c5cac458aa83fa9f0.jpg",
+            "ee21772705ec852ec6e2d3512fb855f1.jpg",
+            "d2b7b9c77c8b5f1626490916526dcc2a.jpg"
+        ],
+        "details": "Zawiera cerulinę",
+        "detailsHabitat": "Torfy węglanowe, wrzosowiska, gleby o zmiennej wilgotności, odczyn bliski obojętnego, wskaźnik niedoboru fosforu",
+        "detailsRemoval": "Częste koszenie, nawożenie fosforem i potasem, uregulowanie stosunków wodnych"
+    },
+    {
+        "id": 35,
+        "name": "Śmiałek darniowy",
+        "nameLatin": "Deschampsia caespitosa",
+        "nameOther": "",
+        "heightTypes": [
+            "średniowysoka"
+        ],
+        "propagations": [
+            "zbitokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 1,
+        "humidity": [
+            "wilgotne"
+        ],
+        "indicators": [],
+        "weeds": [
+            "chwast bezwzględny"
+        ],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "d087bbfb0c520821581379d7995a0167.jpg",
+            "4d0389c429fc8ab3279021c548cf205d.jpg",
+            "05bc279860e93f969567cf49206d4cac.jpg",
+            "7d8ec36bb7b2bc1167a687946fc2bcda.jpg"
+        ],
+        "details": "Długi języczek, ostro zakończony",
+        "detailsHabitat": "Okresowo nadmiernie uwilgotnione łąki i pastwiska",
+        "detailsRemoval": "Bardzo niskie koszenie, wałowanie, nawożenie, przy ilości pow. 25% - orka"
+    },
+    {
+        "id": 36,
+        "name": "Kłosówka wełnista",
+        "nameLatin": "Holcus lanatus",
+        "nameOther": "",
+        "heightTypes": [
+            "średniowysoka"
+        ],
+        "propagations": [
+            "kępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 5,
+        "humidity": [
+            "umiarkowanie wilgotne",
+            "umiarkowanie suche"
+        ],
+        "indicators": [
+            "wskaźnik degradacji gleb torfowych"
+        ],
+        "weeds": [
+            "chwast względny"
+        ],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "eed4f73705de24a085769c36b779279b.jpg",
+            "f6ea9963d8978e14b981498dd10a21d4.jpg",
+            "b4654ebf13d4bd36c96337d0740e26f4.jpg",
+            "4c250f2e4ae72ea014d7b2e02d02dea6.jpg"
+        ],
+        "details": "Gęsto pokryta włoskami",
+        "detailsHabitat": "Luźne gleby próchnicze i torfowe, wskaźnik degradacji gleb torfowych",
+        "detailsRemoval": "Wczesne koszenie, wałowanie, nawożenie"
+    },
+    {
+        "id": 37,
+        "name": "Bliźniczka psia trawka",
+        "nameLatin": "Nardus stricta",
+        "nameOther": "",
+        "heightTypes": [
+            "bardzo niska"
+        ],
+        "propagations": [
+            "zbitokępowa"
+        ],
+        "inflorescences": [
+            "kłos właściwy jednostronny"
+        ],
+        "lwu": 2,
+        "humidity": [
+            "umiarkowanie suche"
+        ],
+        "indicators": [
+            "wskaźnik gleb ubogich",
+            "wskaźnik gleb kwaśnych"
+        ],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "2ffaaed3dc8e359559ec74992db86de7.jpg",
+            "28373dabc20957fdb8176febfa670f93.jpg",
+            "c543a107ac76c588a5dfb5a4b5761e93.jpg",
+            "d54d0263e44758f65d822b28babf5088.jpg"
+        ],
+        "details": "Grzebieniaste ułożenie pędów",
+        "detailsHabitat": "Gleby ubogie i kwaśne (pH 3 – 3,5)",
+        "detailsRemoval": "Wapnowanie, nawożenie"
+    },
+    {
+        "id": 38,
+        "name": "Szczotlicha siwa",
+        "nameLatin": "Corynephorus canescens",
+        "nameOther": "",
+        "heightTypes": [
+            "niska"
+        ],
+        "propagations": [
+            "zbitokępowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 2,
+        "humidity": [
+            "suche"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "718fdda284ffc9012abf85615cd8c18b.jpg",
+            "d592ecb9ac33f086863492b3da5d0bec.jpg",
+            "ca5c8566b595703a59f494f180cd8341.jpg",
+            "d8f926e6026ecbfdf253fde8c4cd4a4b.jpg"
+        ],
+        "details": "Języczek do 3 mm, ostro zakończony",
+        "detailsHabitat": "Suche, jałowe piaski, wydmy piaszczyste",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 39,
+        "name": "Wydmuchrzyca piaskowa",
+        "nameLatin": "Leymus arenarius",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "rozłogowa"
+        ],
+        "inflorescences": [
+            "kłos właściwy"
+        ],
+        "lwu": 1,
+        "humidity": [
+            "suche"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "42a33c9098a49eae20831c23d7492d91.jpg",
+            "0e389bdd51c3f63701aad2dd41ccb705.jpg",
+            "6339d042288397d1549362b631ec7afe.jpg",
+            "fed92302165576e0a8c86284f4b052bc.jpg"
+        ],
+        "details": "",
+        "detailsHabitat": "",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 40,
+        "name": "Piaskownica zwyczajna",
+        "nameLatin": "Ammophila arenaria",
+        "nameOther": "",
+        "heightTypes": [
+            "średniowysoka"
+        ],
+        "propagations": [
+            "rozłogowo-luźnokępowa"
+        ],
+        "inflorescences": [
+            "kłos pozorny"
+        ],
+        "lwu": 1,
+        "humidity": [
+            "suche"
+        ],
+        "indicators": [],
+        "weeds": [],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "5cde63277658976b31251b4b18210699.jpg",
+            "477714dcdb89273de2bc0624bc8df717.jpg",
+            "4095114dc0dea43504e045d703517026.jpg",
+            "9b30fada685623a66d2f04331fb68456.jpg"
+        ],
+        "details": "",
+        "detailsHabitat": "",
+        "detailsRemoval": ""
+    },
+    {
+        "id": 41,
+        "name": "Trzcinnik piaskowy",
+        "nameLatin": "Calamagrostis epigejos",
+        "nameOther": "",
+        "heightTypes": [
+            "wysoka"
+        ],
+        "propagations": [
+            "rozłogowa"
+        ],
+        "inflorescences": [
+            "wiecha właściwa"
+        ],
+        "lwu": 1,
+        "humidity": [
+            "suche"
+        ],
+        "indicators": [
+            "wskaźnik niskiego poziomu wód gruntowych"
+        ],
+        "weeds": [
+            "chwast bezwzględny"
+        ],
+        "meadowsApplicable": 0,
+        "pasturesApplicable": 0,
+        "shortUsagesApplicable": 0,
+        "images": [
+            "c439eb72ac8d4a71eaa38fe93f33da8e.jpg",
+            "d9b7503819003c75ca16bacfa71da0b3.jpg",
+            "96d943dc8a27bec363125657d92bc644.jpg",
+            "351358f752936f32d94a7a7d5744c182.jpg"
+        ],
+        "details": "",
+        "detailsHabitat": "Gatunek pionierski",
+        "detailsRemoval": ""
+    }
+]
